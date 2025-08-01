@@ -47,7 +47,7 @@ Designed to solve real-world business problems such as customer satisfaction ana
 | Recall        |      0.99      |      0.99      |   0.99   |
 | F1-Score      |      0.99      |      0.99      |   0.99   |
 | Accuracy      |        -       |        -       |   0.99   |
-|-------------------------------------------------------------
+|---------------|----------------|----------------|----------|
 | Dataset       |      500       |       500      |   1000   |
 
 ---
